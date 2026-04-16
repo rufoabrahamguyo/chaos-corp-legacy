@@ -10,3 +10,4 @@ for price in prices
 # Missing function closing parenthesis
 result = calculate_total([10, 20, 30
 print("Total is: " + result)
+                          
